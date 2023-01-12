@@ -1,0 +1,4 @@
+name = "GaussLegendrePolynomial"
+uuid = "5f8f3bc5-5522-4cbe-aebe-a18ddaea0e70"
+authors = ["Bai-Zhan <baizhan.phy@hotmail.com>"]
+version = "0.1.0"
